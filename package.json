@@ -1,7 +1,7 @@
 {
   "name": "bug-tracker-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "*Project Management - Clean and Responsive*",
   "main": "server.js",
   "engines": {
     "node": "12.22.1",
@@ -31,5 +31,14 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush9191/BugTracker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ayush9191/BugTracker/issues"
+  },
+  "homepage": "https://github.com/ayush9191/BugTracker#readme"
 }
